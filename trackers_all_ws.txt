@@ -1,4 +1,6 @@
-wss://tracker.files.fm:7073/announce
+wss://tracker.webtorrent.dev:443
 
-ws://tracker.files.fm:7072/announce
+wss://tracker.openwebtorrent.com:443
+
+wss://open.ftorrent.com:443
 
